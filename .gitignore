@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+#netbeans ignore personal stuff
+nbproject/
+
 # BlueJ files
 *.ctxt
 
